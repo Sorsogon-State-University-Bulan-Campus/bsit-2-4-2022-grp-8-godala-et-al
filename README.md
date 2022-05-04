@@ -24,6 +24,18 @@ Answer: Fusion Cuisine, Bar, Spa, Fitness Center, Car Parking, Laundry Rooms, Ki
 
 Answer: Cyanma Hotel offers the best transportation where you can feel your the owner and I assure that you can come and go home safely, yes we offer pick-up and drop - off  by land, air and ocean we have different kind of transportation.
 
+5. Are there any major events taking place at or near the hotel during your stay?
+ 
+ "Cyanma Hotel events"
+* Outdoor Concert
+* Trade show
+* Pool party
+* Wedding
+* Festivals and parties
+* Night Cinema/ Movie Marathon
+* Dance show/ talent show case
+
+
 📝 Authors 📝
 
 
