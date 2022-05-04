@@ -2,7 +2,7 @@
     
     Are you looking for a place where you can feel at home and have the relaxation that you want?
 
-CYANMA hotel is here to offer you the highest levels of luxury you could ever have. Known to have scenic view and instagrammable location perfect for your posts and stories.
+✅CYANMA hotel is here to offer you the highest levels of luxury you could ever have. Known to have scenic view and instagrammable location perfect for your posts and stories.
 
 
 ❓FAQ❓
