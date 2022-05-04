@@ -8,7 +8,7 @@
 ❓FAQ❓
 
 
-1. Where are you located?
+1. Where are we located?
 
 Answer: Siargao Island, Philippines 
 
@@ -16,11 +16,11 @@ Answer: Siargao Island, Philippines
 
 Answer: per hour =₱3,000 per night = ₱5,000
 
-3. What are the services that your hotel offers?
+3. What are the services that our hotel offers?
 
 Answer: Fusion Cuisine, Bar, Spa, Fitness Center, Car Parking, Laundry Rooms, Kiddie Playground, Salon, Swimming Pool
 
-4. Do you offer pick-up or drop-off service, or other transportation/shuttle services?
+4. Do we offer pick-up or drop-off service, or other transportation/shuttle services?
 
 Answer: Cyanma Hotel offers the best transportation where you can feel your the owner and I assure that you can come and go home safely, yes we offer pick-up and drop - off  by land, air and ocean we have different kind of transportation.
 
