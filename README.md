@@ -4,6 +4,11 @@
 
 ✅CYANMA hotel is here to offer you the highest levels of luxury you could ever have. Known to have scenic view and instagrammable location perfect for your posts and stories.
 
+<<<<<<< HEAD
+=======
+✅The CYANMA Hotel  is located in beautiful Siargao Islands , famous for its rare and gorgeous view and friendly community. Experience CYANMA Hotel  natural approach to life with style! Surrounded by beautiful tropical gardens, our buildings are an attractive part of the lush, tropical mountainside. The rooms are cozy, yet elegant, spacious and comfortable. Each room is designed with the environment in mind. For example, large windows help to bring the outdoors inside.
+
+>>>>>>> 9796596e9b7c2b413ec7a1d48a63ad1d515c52f2
 ❓FAQ❓
 
 1. Where are you located?
