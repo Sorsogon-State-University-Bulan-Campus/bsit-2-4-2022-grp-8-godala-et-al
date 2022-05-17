@@ -1,4 +1,7 @@
-💙CYANMA HOTEL 💙
+
+![image](https://user-images.githubusercontent.com/96286348/168738146-ad9172dc-a3e0-4376-baf3-f62ffb40a12a.png)
+
+                                           CYANMA HOTEL 
     
     Are you looking for a place where you can feel at home and have the relaxation that you want?
 
@@ -10,7 +13,7 @@
 
 1. Where are you located?
 
-Answer: Siargao Island, Philippines 
+- We are located at Siargao Island, Philippines 
 
 2. How much is the hotel fee?
 
