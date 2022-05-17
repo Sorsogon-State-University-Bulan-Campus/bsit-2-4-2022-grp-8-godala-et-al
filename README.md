@@ -44,9 +44,9 @@ Answer: Cyanma Hotel offers the best transportation where you can feel like you 
 
 - 👩[@Andria Lyn Grajo](https://www.github.com/AndriaGrajo09)
 
-- 👩[@Mary Joy Godala](https://www.github.com/mMJ12042001)
+- 👩[@Mary Joy Godala](https://www.github.com/mMJ12042001) (README.md content)
 
-- 👩[@Cyrie Hannanael Tee](https://www.github.com/mscyrie131)
+- 👩[@Cyrie Hannanael Tee](https://www.github.com/mscyrie131) (Logo, README.md content)
 
 
  References
