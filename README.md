@@ -1,13 +1,13 @@
 
 ![image](https://user-images.githubusercontent.com/96286348/168738146-ad9172dc-a3e0-4376-baf3-f62ffb40a12a.png)
 
-                                           <<<<<<< HEAD CYANMA HOTEL 
+                                            HEAD CYANMA HOTEL 
     
     Are you looking for a place where you can feel at home and have the relaxation that you want?
 
 ✅CYANMA hotel is here to offer you the highest levels of luxury you could ever have. Known to have scenic view and instagrammable location perfect for your posts and stories.
 
-<<<<<<< HEAD ❓FAQ❓
+❓FAQ❓
 
 1. Where are you located?
 
@@ -38,7 +38,7 @@
 * Dance show/ talent show case
 
 
-<<<<<<< HEAD 📝 Authors 📝
+ 📝 Authors 📝
 
 - 👩[@Andria Lyn Grajo](https://www.github.com/AndriaGrajo09)
 
@@ -48,7 +48,7 @@
 
 
 
- <<<<<<< HEAD References
+ References
 
  📌 Source 1 
   https://www.youtube.com/watch?v=rKQsKLlOkow
@@ -56,7 +56,7 @@
  📌 Source 2
   https://freewebsitetemplates.com/
 
- <<<<<<< HEAD 💓 Special Thanks 💓
+  💓 Special Thanks 💓
 
  we would like to express our heartfelt gratitude to the people mentioned below for their effort to make this project success!
 
