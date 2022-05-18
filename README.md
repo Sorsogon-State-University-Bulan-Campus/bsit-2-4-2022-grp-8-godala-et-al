@@ -1,7 +1,7 @@
 
 ![image](https://user-images.githubusercontent.com/96286348/168738146-ad9172dc-a3e0-4376-baf3-f62ffb40a12a.png)
 
-                                            HEAD CYANMA HOTEL 
+                                            CYANMA HOTEL 
     
     Are you looking for a place where you can feel at home and have the relaxation that you want?
 
