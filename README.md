@@ -63,7 +63,7 @@
 
   💓 Special Thanks 💓
 
- we would like to express our heartfelt gratitude to the people mentioned below for their effort to make this project success!
+ We would like to express our heartfelt gratitude to the people mentioned below for their effort to make this project success!
 
 ✨ Sir Anthony Gacis
   - for his efficient demonstration video and for giving this opportunity to learn about making static website that will surely be helpful in our future projects.
