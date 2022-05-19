@@ -42,7 +42,7 @@
 
 - 👩[@Andria Lyn Grajo](https://www.github.com/AndriaGrajo09)
 
-- 👩[@Mary Joy Godala](https://www.github.com/mMJ12042001) (README.md content)
+- 👩[@Mary Joy Godala](https://www.github.com/mMJ12042001) (README.md content,)
 
 - 👩[@Cyrie Hannanael Tee](https://www.github.com/mscyrie131) (Logo, README.md content)
 
@@ -52,9 +52,14 @@
 
  📌 Source 1 
   https://www.youtube.com/watch?v=rKQsKLlOkow
+
   
  📌 Source 2
   https://freewebsitetemplates.com/
+
+  https://mywanderstory.com/2019/02/13/siargao-to-do/
+
+  https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjK1bf4-Or3AhVO2JYKHfwmAUIYABACGgJ0bA&ae=2&ohost=www.google.com&cid=CAESbeD2YPrYOOmV0tcMtiCvsL_Acpp5mDjeBCs5yk5jXSTchf7v9MCHGk3dybH6tltkb38hdJ4FnkMnJ32CHkzwttoztxAGGhZP8bepEqfNBw0AlUml2GUVRaSJ2rWi8GscEgXSDeZzNUtaBRxzL-c&sig=AOD64_3BHem14PyoBcL7MXrdhDNNukgXCQ&q&adurl&ved=2ahUKEwjt87D4-Or3AhW3w4sBHXu3CPcQ0Qx6BAgEEAM
 
   💓 Special Thanks 💓
 
