@@ -73,3 +73,7 @@
 
 ✨ Member of this group
   - for collaborating and helping ideas to make this project .
+
+## URL (FINAL PROJECT)
+
+📌 https://sorsogon-state-university-bulan-campus.github.io/bsit-2-4-2022-grp-8-godala-et-al/
