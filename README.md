@@ -1,20 +1,20 @@
 
 ![image](https://user-images.githubusercontent.com/96286348/168738146-ad9172dc-a3e0-4376-baf3-f62ffb40a12a.png)
 
-                                            CYANMA HOTEL 
+  ## CYANMA HOTEL 
     
     Are you looking for a place where you can feel at home and have the relaxation that you want?
 
 ✅CYANMA hotel is here to offer you the highest levels of luxury you could ever have. Known to have scenic view and instagrammable location perfect for your posts and stories.
 
-❓FAQ❓
+ ## ❓FAQ❓
 
 1. Where are you located?
 
 - We are located at Siargao Island, Philippines 
 
 2. How much is the hotel fee?
-
+ 
 - per hour =₱3,000 per night = ₱5,000
 
 3. What are the services that your hotel offers?
@@ -25,9 +25,9 @@
 
 - Cyanma Hotel offers the best transportation where you can feel like you are the owner and we assure that you can come and go home safely, yes we offer pick-up and drop - off  by land, air and ocean, we have different kind of transportation.
 
-5. Are there any major events taking place at or near the hotel during your stay
+5. Are there any major events taking place at or near the hotel during your stay?
 
-  "Cyanma Hotel events"
+ ## "Cyanma Hotel events"
 
 * Outdoor Concert
 * Trade show
@@ -38,7 +38,7 @@
 * Dance show/ talent show case
 
 
- 📝 Authors 📝
+## 📝 Authors 📝
 
 - 👩[@Andria Lyn Grajo](https://www.github.com/AndriaGrajo09)
 
@@ -48,8 +48,7 @@
 
 
 
- References
-
+## References
  📌 Source 1 
   https://www.youtube.com/watch?v=rKQsKLlOkow
 
@@ -61,7 +60,7 @@
 
   https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjK1bf4-Or3AhVO2JYKHfwmAUIYABACGgJ0bA&ae=2&ohost=www.google.com&cid=CAESbeD2YPrYOOmV0tcMtiCvsL_Acpp5mDjeBCs5yk5jXSTchf7v9MCHGk3dybH6tltkb38hdJ4FnkMnJ32CHkzwttoztxAGGhZP8bepEqfNBw0AlUml2GUVRaSJ2rWi8GscEgXSDeZzNUtaBRxzL-c&sig=AOD64_3BHem14PyoBcL7MXrdhDNNukgXCQ&q&adurl&ved=2ahUKEwjt87D4-Or3AhW3w4sBHXu3CPcQ0Qx6BAgEEAM
 
-  💓 Special Thanks 💓
+  ## 💓 Special Thanks 💓
 
  We would like to express our heartfelt gratitude to the people mentioned below for their effort to make this project success!
 
